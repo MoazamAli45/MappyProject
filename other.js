@@ -1,0 +1,1 @@
+const firstName='Jonas';// global variable so access in other script
